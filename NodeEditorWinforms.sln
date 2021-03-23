@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeEditor", "NodeEditor\NodeEditor.csproj", "{2A51D621-3E0D-4293-A2AD-964721BFFF7B}"
 EndProject
@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathSample", "MathSample\Ma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomObjectTest", "CustomObjectTest\CustomObjectTest.csproj", "{044DB62C-2BDC-4FCD-96F5-C5D99DA10AE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoRenderSample", "MonoRenderSample\MonoRenderSample.csproj", "{15E6E037-755A-47F4-8830-F7EBDF7C124A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGameRenderSample", "MonoRenderSample\MonoGameRenderSample.csproj", "{15E6E037-755A-47F4-8830-F7EBDF7C124A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -50,5 +50,8 @@ Global
 		{8E8DE586-581D-4740-967D-E45FB7160745} = {E30FD562-FE5D-48CA-8C22-00DF8273BD8D}
 		{044DB62C-2BDC-4FCD-96F5-C5D99DA10AE7} = {E30FD562-FE5D-48CA-8C22-00DF8273BD8D}
 		{15E6E037-755A-47F4-8830-F7EBDF7C124A} = {E30FD562-FE5D-48CA-8C22-00DF8273BD8D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4DA76EC-D4A4-4157-A7D1-EEFDF53E190D}
 	EndGlobalSection
 EndGlobal

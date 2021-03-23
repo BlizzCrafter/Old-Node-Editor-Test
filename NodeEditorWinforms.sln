@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathSample", "MathSample\Ma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomObjectTest", "CustomObjectTest\CustomObjectTest.csproj", "{044DB62C-2BDC-4FCD-96F5-C5D99DA10AE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGameRenderSample", "MonoRenderSample\MonoGameRenderSample.csproj", "{15E6E037-755A-47F4-8830-F7EBDF7C124A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGameRenderSample", "MonoGameRenderSample\MonoGameRenderSample.csproj", "{15E6E037-755A-47F4-8830-F7EBDF7C124A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
